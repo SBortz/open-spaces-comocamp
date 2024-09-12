@@ -1,10 +1,8 @@
 
-## Como Camp
+## Vancouver Event Modeling 2024
 
-This will be replaced with an Event Model.
-
-You may preview the current model [here][draw-io-preview-by-url]
+You may preview the current model [here][vancouver-em]
 
 
-[draw-io-preview-by-url]: https://app.diagrams.net/?mode=github#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fevent-modeling%2Fopen-spaces-comocamp%2Fmain%2Feventmodel.drawio
+[vancouver-em]: https://tinyurl.com/vancouver-em
 
